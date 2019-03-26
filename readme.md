@@ -23,11 +23,11 @@ Communicating results effectively using visualisations</p>
 <p>Which column matters the most for a better chance of admit (highest correlation with ‘Chance of Admit’)?</p>
 </li>
 <li>
-<p>Find people that did better in hard skills and lesser in soft skills and the effect of this on both the ‘Chance of Admit’ and ‘University Rating’.<br>
-Note: Hard skills are considered to be the ‘GRE Score’, ‘TOEFL Score’ and ‘CGPA’. Soft skills are considered to be ‘SOP’ and ‘LOR’</p>
+<p>Find people that did better in hard skills (skills that require pure knowledge of the subject) and lesser in soft skills (skills that may require communication and inter-personal relations)  and the effect of this on both the ‘Chance of Admit’ and ‘University Rating’.<br>
+Note: Hard skills are considered to be the ‘GRE Score’, ‘TOEFL Score’ and ‘CGPA’. Soft skills are considered to be ‘SOP’ and ‘LOR’.</p>
 </li>
 <li>
-<p>Find people that did better in soft skills and lesser in hard skills and the effect of this on both the ‘Chance of Admit’ and 'University rating.<br>
+<p>Find people that did better in soft skills (skills that may require communication and inter-personal relations) and lesser in hard skills (skills that require pure knowledge of the subject) and the effect of this on both the ‘Chance of Admit’ and 'University rating.<br>
 Note: Hard skills are considered to be the ‘GRE Score’, ‘TOEFL Score’ and ‘CGPA’. Soft skills are considered to be ‘SOP’ and ‘LOR’</p>
 </li>
 <li>
