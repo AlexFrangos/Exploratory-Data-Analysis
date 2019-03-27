@@ -11,7 +11,7 @@
 Identifying trends<br>
 Identifying covariation between variables<br>
 Communicating results effectively using visualisations</p>
-<h1 id="relevant-questions-for-investigation">Relevant questions for investigation:</h1>
+<h2 id="relevant-questions-for-investigation">Relevant questions for investigation:</h2>
 <ol>
 <li>
 <p>Which are the top 10 GRE Scores, TOEFL Scores, SOP, LOR, CGPA and what was the ‘Chance of Admit’ for those?</p>
@@ -40,42 +40,8 @@ Note: Hard skills are considered to be the ‘GRE Score’, ‘TOEFL Score’ an
 </li>
 </ol>
 <h2 id="how-to-run-the-code">How to run the code:</h2>
-<p>I developed a number of functions for which you will have to uncomment the code to run them one by one (preferably). Below I outlined how I think its most appropriate to run the code.</p>
-<ol>
-<li>
-<p>Run the descriptiveStatistics function. (Uncomment line 25)</p>
-</li>
-<li>
-<p>Run the outlierAnalysis function. (Uncomment line 41)</p>
-</li>
-<li>
-<p>Run the showDifferenceAfterRemovingOutliers (Uncomment line 58)</p>
-</li>
-<li>
-<p>Run the distributionGraphs function. (Uncomment line 79)</p>
-</li>
-<li>
-<p>Run the topScoresWithChanceOfAdmit function. You can call the function with any column from the dataset. (Uncomment line 88)</p>
-</li>
-<li>
-<p>Run the correlationPlot function. (Uncomment line 99)</p>
-</li>
-<li>
-<p>Run the correlationPlotWithChanceofAdmit function. (Uncomment line 112)</p>
-</li>
-<li>
-<p>Run the betterHardSkillsThanSoftSkills function. (Uncomment first line 130 and then uncomment line 131)</p>
-</li>
-<li>
-<p>Run the betterSoftSkillsThanHardSkills function. (Uncomment first line 152 and then uncomment line 153)</p>
-</li>
-<li>
-<p>Run the admissionHigherThanMeanAnd75Percentile function. (Uncomment line 174)</p>
-</li>
-<li>
-<p>Run the hardSkillsBetterUniversity function. (Uncomment line 188)</p>
-</li>
-</ol>
+<p>I developed a simple command-line menu for which you can select any of the options listed to run any function.</p>
+<p>Note: For the first four selections (A, B , C , D), I am using the data set that contains outliers to show you my way of thinking and how I approached this problem. For the rest of the selections I am using the data set that does not contain outliers to continue the Exploratory Data Analysis.</p>
 <h2 id="conclussion">Conclussion:</h2>
 <p>Some interesting facts came out after this Exploratory Data Analysis.</p>
 <p>I found that CGPA has the highest correlation with Chance of Admit (after running the correlationPlotWithChanceOfAdmit function)</p>
