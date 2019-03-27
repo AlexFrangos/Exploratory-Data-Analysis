@@ -41,8 +41,8 @@ Note: Hard skills are considered to be the ‘GRE Score’, ‘TOEFL Score’ an
 </ol>
 <h2 id="how-to-run-the-code">How to run the code:</h2>
 <ul>
-<li>You will need to have pandas, numpy, seaborn and matplotlib installed.</li>
-<li>Run program on a command line interface: python3 <a href="http://project.py">project.py</a></li>
+<li>Run program on command line interface: python3 <a href="http://project.py">project.py</a></li>
+<li>The program automatically installs all the modules that are used (incase they are not installed in your computer)</li>
 <li>I developed a simple command-line menu for which you can select any of the options listed to run any function.</li>
 <li>Note: For the first four selections (A, B , C , D), I am using the data set that contains outliers to show you my way of thinking and how I approached this problem. For the rest of the selections I am using the data set that does not contain outliers to continue the Exploratory Data Analysis.</li>
 </ul>
