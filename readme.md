@@ -40,8 +40,11 @@ Note: Hard skills are considered to be the ‘GRE Score’, ‘TOEFL Score’ an
 </li>
 </ol>
 <h2 id="how-to-run-the-code">How to run the code:</h2>
-<p>I developed a simple command-line menu for which you can select any of the options listed to run any function.</p>
-<p>Note: For the first four selections (A, B , C , D), I am using the data set that contains outliers to show you my way of thinking and how I approached this problem. For the rest of the selections I am using the data set that does not contain outliers to continue the Exploratory Data Analysis.</p>
+<ul>
+<li>Run <a href="http://project.py">project.py</a></li>
+<li>I developed a simple command-line menu for which you can select any of the options listed to run any function.</li>
+<li>Note: For the first four selections (A, B , C , D), I am using the data set that contains outliers to show you my way of thinking and how I approached this problem. For the rest of the selections I am using the data set that does not contain outliers to continue the Exploratory Data Analysis.</li>
+</ul>
 <h2 id="conclussion">Conclussion:</h2>
 <p>Some interesting facts came out after this Exploratory Data Analysis.</p>
 <p>I found that CGPA has the highest correlation with Chance of Admit (after running the correlationPlotWithChanceOfAdmit function)</p>
