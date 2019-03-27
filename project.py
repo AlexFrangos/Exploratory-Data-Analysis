@@ -98,7 +98,7 @@ def correlationPlot(admissions_data):
 def correlationPlotWithChanceOfAdmit(admissions_data):
 	admissions_data_corr = admissions_data.corr()['Chance of Admit'][:-1] # -1 because the latest row is 'Chance of Admit'
 	golden_features_list = admissions_data_corr[abs(admissions_data_corr) > 0.5].sort_values(ascending=False)
-	print("There is {} strongly correlated values with Chance of Admit:\n{}".format(len(golden_features_list), golden_features_list))
+	print("There are {} strongly correlated values with Chance of Admit:\n{}".format(len(golden_features_list), golden_features_list))
 
 	for i in range(0, len(admissions_data.columns), 5):
 		sns.pairplot(data=admissions_data, x_vars=admissions_data.columns[i:i+5], y_vars=['Chance of Admit'])
