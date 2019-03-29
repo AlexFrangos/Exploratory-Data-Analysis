@@ -41,11 +41,27 @@ Note: Hard skills are considered to be the ‘GRE Score’, ‘TOEFL Score’ an
 </ol>
 <h2 id="how-to-run-the-code">How to run the code:</h2>
 <ul>
-<li>Run program on command line interface: python3 <a href="http://project.py">project.py</a></li>
-<li>If you get the following error:  “import pip._internal as pip - ModuleNotFoundError: No module named ‘pip._internal’”, you have to upgrade pip using: python3 -m pip install --upgrade pip</li>
-<li>The program automatically installs all the modules that are used (incase they are not installed in your computer)</li>
-<li>I developed a simple command-line menu for which you can select any of the options listed to run any function.</li>
-<li>Note: For the first four selections (A, B , C , D), I am using the data set that contains outliers to show you my way of thinking and how I approached this problem. For the rest of the selections I am using the data set that does not contain outliers to continue the Exploratory Data Analysis.</li>
+<li>
+<p>I would suggest you to first run the project_notebook file I shared on GitHub. This is the best way to understand my way of thinking and how I approached this problem.</p>
+</li>
+<li>
+<p>However if you want to run the program on a command line interface follow the following instructions:</p>
+</li>
+<li>
+<p>Run program on command line interface: python3 <a href="http://project.py">project.py</a></p>
+</li>
+<li>
+<p>If you get the following error:  “import pip._internal as pip - ModuleNotFoundError: No module named ‘pip._internal’”, you have to upgrade pip using: python3 -m pip install --upgrade pip</p>
+</li>
+<li>
+<p>The program automatically installs all the modules that are used (incase they are not installed in your computer)</p>
+</li>
+<li>
+<p>I developed a simple command-line menu for which you can select any of the options listed to run any function.</p>
+</li>
+<li>
+<p>Note: For the first four selections (A, B , C , D), I am using the data set that contains outliers to show you my way of thinking and how I approached this problem. For the rest of the selections I am using the data set that does not contain outliers to continue the Exploratory Data Analysis.</p>
+</li>
 </ul>
 <h2 id="conclussion">Conclussion:</h2>
 <p>Some interesting facts came out after this Exploratory Data Analysis.</p>
